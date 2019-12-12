@@ -25,25 +25,6 @@ requirements:
 test:
   imports:
     - venusian
-    - venusian.tests
-    - venusian.tests.fixtures
-    - venusian.tests.fixtures.attrerror
-    - venusian.tests.fixtures.attrerror_package
-    - venusian.tests.fixtures.import_and_scan
-    - venusian.tests.fixtures.importerror
-    - venusian.tests.fixtures.importerror_package
-    - venusian.tests.fixtures.importonly
-    - venusian.tests.fixtures.nested
-    - venusian.tests.fixtures.nested.sub1
-    - venusian.tests.fixtures.nested.sub1.subsub1
-    - venusian.tests.fixtures.nested.sub2
-    - venusian.tests.fixtures.nested.sub2.subsub2
-    - venusian.tests.fixtures.one
-    - venusian.tests.fixtures.pyc
-    - venusian.tests.fixtures.pyc.subpackage
-    - venusian.tests.fixtures.subpackages
-    - venusian.tests.fixtures.subpackages.childpackage
-    - venusian.tests.fixtures.two
 
 about:
   home: http://pylonsproject.org
