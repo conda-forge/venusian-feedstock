@@ -16,11 +16,11 @@ build:
 
 requirements:
   host:
+    - python >= 3.5.*
     - pip
-    - python
     - setuptools
   run:
-    - python
+    - python >= 3.5.*
 
 test:
   imports:
